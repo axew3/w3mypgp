@@ -5,3 +5,9 @@ Your files are encrypted right in your browser using AES-GCM-256 before they eve
 Recipients receive an email link and use their own private keys to verify the sender and decrypt the downloaded content locally. For guests, it offer a "no-trace" mode: fast encryption and decryption without any files ever touching the server.
 The Unbreakable Vault for Your Files. Share Securely. Decrypt Locally. Trust Nothing Else.
 Next-Generation Security for a Zero-Trust World.
+
+= What is ML-KEM and ML-DSA? =
+The code is actually Level 5 NIST-compliant.
+Using the Paul Miller Noble library as single compiled file
+
+[Noble PQ](https://github.com/paulmillr/noble-post-quantum)
