@@ -6,6 +6,5 @@ Recipients receive an email link and use their own private keys to verify the se
 The Unbreakable Vault for Your Files. Share Securely. Decrypt Locally. Trust Nothing Else.
 Next-Generation Security for a Zero-Trust World.
 
-= What is ML-KEM and ML-DSA? =
 The code is actually Level 5 NIST-compliant.
 Using the Paul Miller Noble library as single compiled file [Noble PQ](https://github.com/paulmillr/noble-post-quantum)
